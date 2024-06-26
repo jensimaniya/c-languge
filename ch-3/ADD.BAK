@@ -1,0 +1,15 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+	int a,b;
+	clrscr();
+	printf("enter value of a:");
+	scanf("%d",&a);
+	printf("enter value of b:");
+	scanf("%d",&b);
+	printf("evaluate of:%d",(a*a)+(2*a*b)+(b*b));
+	getch();
+}
+
+

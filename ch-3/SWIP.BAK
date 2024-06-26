@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+	int a=5,b=10;
+	clrscr();
+	printf("enter value of a");
+	getch();
+}
